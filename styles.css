@@ -1,0 +1,15 @@
+body {
+    background: url("./assets/daniel-ramirez-q4TfWtnz_xw-unsplash.jpg"); 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        scroll-behavior: smooth;
+}
+
+#logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
